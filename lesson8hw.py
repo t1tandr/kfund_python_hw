@@ -50,16 +50,16 @@
 
 # 8 zadacha
 
-# s = input('Ведите числа')
-# a =[]
-# for i in s:
-#     if i != ' ':
-#         b = int(i)
-#         a.append(b)
-# summ = 0
-# for g in a:
-#     summ += g
-# print(summ)
+s = input('Ведите числа')
+a =[]
+for i in s:
+    if i != ' ':
+        b = int(i)
+        a.append(b)
+summ = 0
+for g in a:
+    summ += g
+print(summ)
 
 #  9 zadacha
 
@@ -71,11 +71,11 @@
 
 # 10 zadacha
 
-year = 2004
-years = []
-while year <= 2022:
-    years.append(year)
-    year += 1
-print(years)
+# year = 2004
+# years = []
+# while year <= 2022:
+#     years.append(year)
+#     year += 1
+# print(years)
 
 
