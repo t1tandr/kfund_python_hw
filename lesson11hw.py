@@ -71,16 +71,16 @@
 # for b in voc.values():
 #     print(b.title())
 
-voc = {
-    'lyuda': 'complete',
-    'nika': 'no',
-    'sveta': 'complete',
-    'gleb': 'no',
-    'nick': 'complete',
-    'nastya': 'no'
-}
-for i,g in voc.items():
-    if g == 'complete':
-        print(f'Поздравляю, {i.title()}! Вы успешно зпрегистрировались')
-    else:
-        print(f'Уважаемый(-ая), {i.title()}, прошу зарегистрироваться!')
+# voc = {
+#     'lyuda': 'complete',
+#     'nika': 'no',
+#     'sveta': 'complete',
+#     'gleb': 'no',
+#     'nick': 'complete',
+#     'nastya': 'no'
+# }
+# for i,g in voc.items():
+#     if g == 'complete':
+#         print(f'Поздравляю, {i.title()}! Вы успешно зпрегистрировались')
+#     else:
+#         print(f'Уважаемый(-ая), {i.title()}, прошу зарегистрироваться!')
